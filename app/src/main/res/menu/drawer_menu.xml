@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title= "Nahwu Arabi Jilid 1" android:id="@+id/home2" />
+        <item android:title= "1: Al-Kalimah" android:id="@+id/ch1" />
+        <item android:title= "2: Jumlah \u0026 Kalam" android:id="@+id/ch2" />
+        <item android:title= "3: Jenis-jenis Fi’il" android:id="@+id/ch3" />
+        <item android:title= "4: Al-Mudzakkar \u0026 Al-Muannats" android:id="@+id/ch4" />
+        <item android:title= "5: Al-Fa’il" android:id="@+id/ch5" />
+        <item android:title= "6: Al-Maf’ul Bih" android:id="@+id/ch6" />
+        <item android:title= "7: Huruf Al-Jar" android:id="@+id/ch7" />
+        <item android:title= "8: Isim Mufrad" android:id="@+id/ch8" />
+        <item android:title= "9: Jamak at-Taksir" android:id="@+id/ch9" />
+        <item android:title= "10: Jamak Al-Muannats As-Salim" android:id="@+id/ch10" />
+        <item android:title= "11: Al-Mutsanna" android:id="@+id/ch11" />
+        <item android:title= "12: Jamak Al-Mudzakkar As-Salim" android:id="@+id/ch12" />
+        <item android:title= "13: Al-Mubtada’ \u0026 Al-Khobar" android:id="@+id/ch13" />
+        <item android:title= "14: Idhofa " android:id="@+id/ch14" />
+        <item android:title= "15: Al-Asma’ Al-Khomsah" android:id="@+id/ch15" />
+        <item android:title= "16: Hukum Al-Fi’il Al-Mudhori’" android:id="@+id/ch16" />
+        <item android:title= "17: Al-Af’al Al-Khomsah" android:id="@+id/ch17" />
+    </group>
+
+</menu>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/home2">
+    <fragment
+        android:id="@+id/ch1"
+        android:name="com.abm.nahwuarabi.Ch1"
+        android:label="1: Al-Kalimah"
+        tools:layout="@layout/fragment_ch1" />
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.abm.nahwuarabi.home"
+        android:label="Nahwu Arabi Jilid 1"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/ch2"
+        android:name="com.abm.nahwuarabi.ch2"
+        android:label="2: Jumlah \u0026 Kalam"
+        tools:layout="@layout/fragment_ch2" />
+    <fragment
+        android:id="@+id/ch3"
+        android:name="com.abm.nahwuarabi.ch3"
+        android:label="3: Jenis-jenis Fi’il"
+        tools:layout="@layout/fragment_ch3" />
+    <fragment
+        android:id="@+id/ch4"
+        android:name="com.abm.nahwuarabi.ch4"
+        android:label="4: Al-Mudzakkar \u0026 Al Muannats"
+        tools:layout="@layout/fragment_ch4" />
+    <fragment
+        android:id="@+id/ch5"
+        android:name="com.abm.nahwuarabi.ch5"
+        android:label="5: Al-Fa’il"
+        tools:layout="@layout/fragment_ch5" />
+    <fragment
+        android:id="@+id/ch6"
+        android:name="com.abm.nahwuarabi.ch6"
+        android:label="6: Al-Maf’ul Bih"
+        tools:layout="@layout/fragment_ch6" />
+    <fragment
+        android:id="@+id/ch7"
+        android:name="com.abm.nahwuarabi.ch7"
+        android:label="7: Huruf Al-Jar"
+        tools:layout="@layout/fragment_ch7" />
+    <fragment
+        android:id="@+id/ch8"
+        android:name="com.abm.nahwuarabi.ch8"
+        android:label="8: Isim Mufrad"
+        tools:layout="@layout/fragment_ch8" />
+    <fragment
+        android:id="@+id/ch9"
+        android:name="com.abm.nahwuarabi.ch9"
+        android:label="9: Jamak at-Taksir"
+        tools:layout="@layout/fragment_ch9" />
+    <fragment
+        android:id="@+id/ch10"
+        android:name="com.abm.nahwuarabi.ch10"
+        android:label="10: Jamak Al-Muannats As-Salim"
+        tools:layout="@layout/fragment_ch10" />
+    <fragment
+        android:id="@+id/ch11"
+        android:name="com.abm.nahwuarabi.ch11"
+        android:label="11: Al-Mutsanna"
+        tools:layout="@layout/fragment_ch11" />
+    <fragment
+        android:id="@+id/ch12"
+        android:name="com.abm.nahwuarabi.ch12"
+        android:label="12: Jamak Al-Mudzakkar As-Salim"
+        tools:layout="@layout/fragment_ch12" />
+    <fragment
+        android:id="@+id/ch13"
+        android:name="com.abm.nahwuarabi.ch13"
+        android:label="13: Al-Mubtada’ \u0026 Al-Khobar"
+        tools:layout="@layout/fragment_ch13" />
+    <fragment
+        android:id="@+id/ch14"
+        android:name="com.abm.nahwuarabi.ch14"
+        android:label="14: Idhofa"
+        tools:layout="@layout/fragment_ch14" />
+    <fragment
+        android:id="@+id/ch15"
+        android:name="com.abm.nahwuarabi.ch15"
+        android:label="15: Al-Asma’ Al-Khomsah"
+        tools:layout="@layout/fragment_ch15" />
+    <fragment
+        android:id="@+id/ch16"
+        android:name="com.abm.nahwuarabi.ch16"
+        android:label="16: Hukum Al-Fi’il Al-Mudhori’"
+        tools:layout="@layout/fragment_ch16" />
+    <fragment
+        android:id="@+id/ch17"
+        android:name="com.abm.nahwuarabi.ch17"
+        android:label="17: Al-Af’al Al-Khomsah"
+        tools:layout="@layout/fragment_ch17" />
+
+
+</navigation>
